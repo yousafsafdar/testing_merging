@@ -6,3 +6,5 @@ def ret_mult_values(a, b):
 
 result = ret_mult_values(50, 40)
 print(result)
+
+print("helloworl")
